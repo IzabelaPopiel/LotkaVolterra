@@ -9,6 +9,7 @@ Project prepared as part of the university course "Numerical methods". This is a
 ## General info
 This project is simple simulation of dynamics of interaction between two spieces (predator and prey) basing on Lotka–Volterra model [https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations].
 The populations change in time can be described using equations:
+
 ![image](https://user-images.githubusercontent.com/44273512/121685133-dec5c780-cabf-11eb-8fbe-1a77717cfd0e.png)
 
 where:
