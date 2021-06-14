@@ -5,6 +5,7 @@ Project prepared as part of the university course "Numerical methods". This is a
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Launch](#launch)
 
 ## General info
 This project is simple simulation of dynamics of interaction between two spieces (predator and prey) basing on Lotka–Volterra model [https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations].
@@ -32,4 +33,8 @@ Project is created with:
 * Java 11
 * JavaFx 11.0.2
 * Apache Commons Math 3.6.1
-	
+
+## Launch
+To run this project, use gradle:
+HodgkinHuxleyNeuron -> Tasks -> application -> run
+![image](https://user-images.githubusercontent.com/44273512/121845624-05654780-cce6-11eb-8761-de4abf1dc8d7.png)
